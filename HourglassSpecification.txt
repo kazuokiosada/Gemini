@@ -1,0 +1,1 @@
+Create an hourglass app with 1 minute measurement
